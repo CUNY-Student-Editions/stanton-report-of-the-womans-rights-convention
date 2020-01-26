@@ -5,13 +5,15 @@
     <dc:creator opf:role="aut" opf:file-as="Stanton, Elizabeth Cady">Elizabeth Cady Stanton</dc:creator>
     <dc:identifier opf:scheme="uuid" id="uuid_id">87b5a450-d1b7-4cc6-a167-f810a09f9f3a</dc:identifier>
     <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.3.0) [https://calibre-ebook.com]</dc:contributor>
-    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:date>2020-01-26T05:00:00+00:00</dc:date>
+    <dc:publisher>CUNY Student Editions</dc:publisher>
     <dc:language>en</dc:language>
     <dc:identifier opf:scheme="calibre">534524f1-8303-4a6f-9164-397942ffde60</dc:identifier>
     <meta content="{&quot;Elizabeth Cady Stanton&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
     <meta content="A CUNY Student Edition" name="calibre:series"/>
     <meta content="2.0" name="calibre:series_index"/>
     <meta name="calibre:title_sort" content="Report of the Woman's Rights Convention"/>
+    <meta name="cover" content="cover"/>
   </metadata>
   <manifest>
     <item href="start.xhtml" id="start" media-type="application/xhtml+xml"/>
@@ -20,6 +22,7 @@
     <item href="004-report.xhtml" id="id5" media-type="application/xhtml+xml"/>
     <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
     <item href="styles.css" id="id4" media-type="text/css"/>
+    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
     <item href="CUNY-Student-Editions-logo.png" id="id2" media-type="image/png"/>
     <item href="editor-pic.jpg" id="id3" media-type="image/jpeg"/>
   </manifest>
