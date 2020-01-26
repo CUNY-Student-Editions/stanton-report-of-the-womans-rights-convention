@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="87b5a450-d1b7-4cc6-a167-f810a09f9f3a" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (4.3.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Report of the Woman's Rights Convention</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>Title page</text>
+      </navLabel>
+      <content src="001-cse-cover-page.xhtml#toc_4"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>About this Edition</text>
+      </navLabel>
+      <content src="002-cse-about.xhtml"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>Report of the Woman's Rights Convention</text>
+      </navLabel>
+      <content src="004-report.xhtml#toc_5"/>
+      <navPoint id="num_4" playOrder="4">
+        <navLabel>
+          <text>Thursday Morning.</text>
+        </navLabel>
+        <content src="004-report.xhtml#toc_1"/>
+      </navPoint>
+      <navPoint id="num_5" playOrder="5">
+        <navLabel>
+          <text>Declaration of Sentiments.</text>
+        </navLabel>
+        <content src="004-report.xhtml#toc_2"/>
+      </navPoint>
+      <navPoint id="num_6" playOrder="6">
+        <navLabel>
+          <text>Afternoon Session.</text>
+        </navLabel>
+        <content src="004-report.xhtml#toc_3"/>
+      </navPoint>
+      <navPoint id="num_7" playOrder="7">
+        <navLabel>
+          <text>Evening Session.</text>
+        </navLabel>
+        <content src="004-report.xhtml#toc_4"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
